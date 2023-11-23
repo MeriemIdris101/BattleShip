@@ -36,4 +36,3 @@ fn test_player_turn_miss() {
     assert!(game.computer_ships.contains(&coordinates));
     assert_eq!(game.player_board[coordinates.0][coordinates.1], 'O');
 }
-

@@ -13,4 +13,3 @@ path = "main.rs"
 [[test]]
 name = "tests"
 path = "tests/tests.rs"
-
