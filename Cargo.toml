@@ -1,0 +1,16 @@
+[package]
+name = "battleship"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+
+[[bin]]
+name = "battleship"
+path = "main.rs"
+
+[[test]]
+name = "tests"
+path = "tests/tests.rs"
+
