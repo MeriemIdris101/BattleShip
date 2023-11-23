@@ -2,6 +2,10 @@ Battleship Game in Rust
 
 This is a console-based implementation of the classic Battleship game in Rust. The game allows you to play against the computer in a turn-based battle to sink each other's ships.
 
+Runing the game:
+- 'cargo build' (to build the game).
+- 'cargo run; (to run it).
+
 
 Here's a brief overview of how the game works:
 
@@ -15,6 +19,10 @@ Here's a brief overview of how the game works:
 8. Repeat: The game continues with turns alternating between you and the computer until one side's ships are all sunk.
 9. Winner: The game will declare a winner based on whether you or the computer sank all the opponent's ships.
 10. Game end: The game ends when all of either your or the computer's ships are sunk. The winner is displayed at the end of the game.
+
+Challenges -->
+- To most, this game is not challenging. But there are no grid outlines so to some, it'll be difficult to tell where the columns and rows are. 
+- You also need patience for this game. It can be frustrating when you keep getting misses, but very rewarding when you get hits. 
 
 
 
